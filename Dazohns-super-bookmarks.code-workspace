@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Dazohns-Bookmark",
+			"path": "../../Dazohns-Bookmark"
+		},
+		{
+			"name": "dist",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
